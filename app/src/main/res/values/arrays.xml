@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="HomePage">
+        <item>View My Accounts</item>
+        <item>Insurance ID Cards</item>
+        <item>Find An Agent</item>
+        <item>Get Accident Help</item>
+        <item>Start Or View A Claim</item>
+        <item>Get A Quote</item>
+        <item>About Us</item>
+        <item>Contact Us</item>
+    </string-array>
+</resources>
